@@ -1,0 +1,411 @@
+
+<MESH NUMSUBMESH="1">
+    <SUBMESH NUMVERTICES="61" NUMFACES="40" MATERIAL="0" NUMLODSTEPS="0" NUMSPRINGS="0" NUMTEXCOORDS="1">
+        <VERTEX ID="0" NUMINFLUENCES="1">
+            <POS>0.89 4.90 500.47</POS>
+            <NORM>0.17772 0.97952 0.09463</NORM>
+            <TEXCOORD>0.0250 0.0000</TEXCOORD>
+            <INFLUENCE ID="1">1</INFLUENCE>
+        </VERTEX>
+        <VERTEX ID="1" NUMINFLUENCES="1">
+            <POS>0.89 4.90 500.47</POS>
+            <NORM>0.17772 0.97952 0.09463</NORM>
+            <TEXCOORD>0.0750 0.0000</TEXCOORD>
+            <INFLUENCE ID="1">1</INFLUENCE>
+        </VERTEX>
+        <VERTEX ID="2" NUMINFLUENCES="1">
+            <POS>0.89 4.90 500.47</POS>
+            <NORM>0.17772 0.97952 0.09463</NORM>
+            <TEXCOORD>0.1250 0.0000</TEXCOORD>
+            <INFLUENCE ID="1">1</INFLUENCE>
+        </VERTEX>
+        <VERTEX ID="3" NUMINFLUENCES="1">
+            <POS>0.89 4.90 500.47</POS>
+            <NORM>0.17772 0.97952 0.09463</NORM>
+            <TEXCOORD>0.1750 0.0000</TEXCOORD>
+            <INFLUENCE ID="1">1</INFLUENCE>
+        </VERTEX>
+        <VERTEX ID="4" NUMINFLUENCES="1">
+            <POS>0.89 4.90 500.47</POS>
+            <NORM>0.17772 0.97952 0.09463</NORM>
+            <TEXCOORD>0.2250 0.0000</TEXCOORD>
+            <INFLUENCE ID="1">1</INFLUENCE>
+        </VERTEX>
+        <VERTEX ID="5" NUMINFLUENCES="1">
+            <POS>0.89 4.90 500.47</POS>
+            <NORM>0.17772 0.97952 0.09463</NORM>
+            <TEXCOORD>0.2750 0.0000</TEXCOORD>
+            <INFLUENCE ID="1">1</INFLUENCE>
+        </VERTEX>
+        <VERTEX ID="6" NUMINFLUENCES="1">
+            <POS>0.89 4.90 500.47</POS>
+            <NORM>0.17772 0.97952 0.09463</NORM>
+            <TEXCOORD>0.3250 0.0000</TEXCOORD>
+            <INFLUENCE ID="1">1</INFLUENCE>
+        </VERTEX>
+        <VERTEX ID="7" NUMINFLUENCES="1">
+            <POS>0.89 4.90 500.47</POS>
+            <NORM>0.17772 0.97952 0.09463</NORM>
+            <TEXCOORD>0.3750 0.0000</TEXCOORD>
+            <INFLUENCE ID="1">1</INFLUENCE>
+        </VERTEX>
+        <VERTEX ID="8" NUMINFLUENCES="1">
+            <POS>0.89 4.90 500.47</POS>
+            <NORM>0.17772 0.97952 0.09463</NORM>
+            <TEXCOORD>0.4250 0.0000</TEXCOORD>
+            <INFLUENCE ID="1">1</INFLUENCE>
+        </VERTEX>
+        <VERTEX ID="9" NUMINFLUENCES="1">
+            <POS>0.89 4.90 500.47</POS>
+            <NORM>0.17772 0.97952 0.09463</NORM>
+            <TEXCOORD>0.4750 0.0000</TEXCOORD>
+            <INFLUENCE ID="1">1</INFLUENCE>
+        </VERTEX>
+        <VERTEX ID="10" NUMINFLUENCES="1">
+            <POS>0.89 4.90 500.47</POS>
+            <NORM>0.17772 0.97952 0.09463</NORM>
+            <TEXCOORD>0.5250 0.0000</TEXCOORD>
+            <INFLUENCE ID="1">1</INFLUENCE>
+        </VERTEX>
+        <VERTEX ID="11" NUMINFLUENCES="1">
+            <POS>0.89 4.90 500.47</POS>
+            <NORM>0.17772 0.97952 0.09463</NORM>
+            <TEXCOORD>0.5750 0.0000</TEXCOORD>
+            <INFLUENCE ID="1">1</INFLUENCE>
+        </VERTEX>
+        <VERTEX ID="12" NUMINFLUENCES="1">
+            <POS>0.89 4.90 500.47</POS>
+            <NORM>0.17772 0.97952 0.09463</NORM>
+            <TEXCOORD>0.6250 0.0000</TEXCOORD>
+            <INFLUENCE ID="1">1</INFLUENCE>
+        </VERTEX>
+        <VERTEX ID="13" NUMINFLUENCES="1">
+            <POS>0.89 4.90 500.47</POS>
+            <NORM>0.17772 0.97952 0.09463</NORM>
+            <TEXCOORD>0.6750 0.0000</TEXCOORD>
+            <INFLUENCE ID="1">1</INFLUENCE>
+        </VERTEX>
+        <VERTEX ID="14" NUMINFLUENCES="1">
+            <POS>0.89 4.90 500.47</POS>
+            <NORM>0.17772 0.97952 0.09463</NORM>
+            <TEXCOORD>0.7250 0.0000</TEXCOORD>
+            <INFLUENCE ID="1">1</INFLUENCE>
+        </VERTEX>
+        <VERTEX ID="15" NUMINFLUENCES="1">
+            <POS>0.89 4.90 500.47</POS>
+            <NORM>0.17772 0.97952 0.09463</NORM>
+            <TEXCOORD>0.7750 0.0000</TEXCOORD>
+            <INFLUENCE ID="1">1</INFLUENCE>
+        </VERTEX>
+        <VERTEX ID="16" NUMINFLUENCES="1">
+            <POS>0.89 4.90 500.47</POS>
+            <NORM>0.17772 0.97952 0.09463</NORM>
+            <TEXCOORD>0.8250 0.0000</TEXCOORD>
+            <INFLUENCE ID="1">1</INFLUENCE>
+        </VERTEX>
+        <VERTEX ID="17" NUMINFLUENCES="1">
+            <POS>0.89 4.90 500.47</POS>
+            <NORM>0.17772 0.97952 0.09463</NORM>
+            <TEXCOORD>0.8750 0.0000</TEXCOORD>
+            <INFLUENCE ID="1">1</INFLUENCE>
+        </VERTEX>
+        <VERTEX ID="18" NUMINFLUENCES="1">
+            <POS>0.89 4.90 500.47</POS>
+            <NORM>0.17772 0.97952 0.09463</NORM>
+            <TEXCOORD>0.9250 0.0000</TEXCOORD>
+            <INFLUENCE ID="1">1</INFLUENCE>
+        </VERTEX>
+        <VERTEX ID="19" NUMINFLUENCES="1">
+            <POS>0.89 4.90 500.47</POS>
+            <NORM>0.17772 0.97952 0.09463</NORM>
+            <TEXCOORD>0.9750 0.0000</TEXCOORD>
+            <INFLUENCE ID="1">1</INFLUENCE>
+        </VERTEX>
+        <VERTEX ID="20" NUMINFLUENCES="1">
+            <POS>4.08 -0.47 497.15</POS>
+            <NORM>0.81634 -0.09304 -0.57003</NORM>
+            <TEXCOORD>0.0000 0.5000</TEXCOORD>
+            <INFLUENCE ID="1">1</INFLUENCE>
+        </VERTEX>
+        <VERTEX ID="21" NUMINFLUENCES="1">
+            <POS>3.03 -0.17 496.03</POS>
+            <NORM>0.60656 -0.03331 -0.79434</NORM>
+            <TEXCOORD>0.0500 0.5000</TEXCOORD>
+            <INFLUENCE ID="1">1</INFLUENCE>
+        </VERTEX>
+        <VERTEX ID="22" NUMINFLUENCES="1">
+            <POS>1.69 0.15 495.30</POS>
+            <NORM>0.33741 0.02968 -0.94089</NORM>
+            <TEXCOORD>0.1000 0.5000</TEXCOORD>
+            <INFLUENCE ID="1">1</INFLUENCE>
+        </VERTEX>
+        <VERTEX ID="23" NUMINFLUENCES="1">
+            <POS>0.18 0.45 495.02</POS>
+            <NORM>0.03524 0.08976 -0.99534</NORM>
+            <TEXCOORD>0.1500 0.5000</TEXCOORD>
+            <INFLUENCE ID="1">1</INFLUENCE>
+        </VERTEX>
+        <VERTEX ID="24" NUMINFLUENCES="1">
+            <POS>-1.35 0.71 495.24</POS>
+            <NORM>-0.27039 0.14106 -0.95236</NORM>
+            <TEXCOORD>0.2000 0.5000</TEXCOORD>
+            <INFLUENCE ID="1">1</INFLUENCE>
+        </VERTEX>
+        <VERTEX ID="25" NUMINFLUENCES="1">
+            <POS>-2.75 0.89 495.92</POS>
+            <NORM>-0.54955 0.17855 -0.81616</NORM>
+            <TEXCOORD>0.2500 0.5000</TEXCOORD>
+            <INFLUENCE ID="1">1</INFLUENCE>
+        </VERTEX>
+        <VERTEX ID="26" NUMINFLUENCES="1">
+            <POS>-3.87 0.99 497.00</POS>
+            <NORM>-0.77492 0.19856 -0.60006</NORM>
+            <TEXCOORD>0.3000 0.5000</TEXCOORD>
+            <INFLUENCE ID="1">1</INFLUENCE>
+        </VERTEX>
+        <VERTEX ID="27" NUMINFLUENCES="1">
+            <POS>-4.62 1.00 498.37</POS>
+            <NORM>-0.92443 0.19914 -0.32523</NORM>
+            <TEXCOORD>0.3500 0.5000</TEXCOORD>
+            <INFLUENCE ID="1">1</INFLUENCE>
+        </VERTEX>
+        <VERTEX ID="28" NUMINFLUENCES="1">
+            <POS>-4.92 0.90 499.91</POS>
+            <NORM>-0.98345 0.18022 -0.01856</NORM>
+            <TEXCOORD>0.4000 0.5000</TEXCOORD>
+            <INFLUENCE ID="1">1</INFLUENCE>
+        </VERTEX>
+        <VERTEX ID="29" NUMINFLUENCES="1">
+            <POS>-4.73 0.72 501.45</POS>
+            <NORM>-0.94621 0.14366 0.28992</NORM>
+            <TEXCOORD>0.4500 0.5000</TEXCOORD>
+            <INFLUENCE ID="1">1</INFLUENCE>
+        </VERTEX>
+        <VERTEX ID="30" NUMINFLUENCES="1">
+            <POS>-4.08 0.47 502.85</POS>
+            <NORM>-0.81634 0.09304 0.57003</NORM>
+            <TEXCOORD>0.5000 0.5000</TEXCOORD>
+            <INFLUENCE ID="1">1</INFLUENCE>
+        </VERTEX>
+        <VERTEX ID="31" NUMINFLUENCES="1">
+            <POS>-3.03 0.17 503.97</POS>
+            <NORM>-0.60656 0.03331 0.79434</NORM>
+            <TEXCOORD>0.5500 0.5000</TEXCOORD>
+            <INFLUENCE ID="1">1</INFLUENCE>
+        </VERTEX>
+        <VERTEX ID="32" NUMINFLUENCES="1">
+            <POS>-1.69 -0.15 504.70</POS>
+            <NORM>-0.33741 -0.02968 0.94089</NORM>
+            <TEXCOORD>0.6000 0.5000</TEXCOORD>
+            <INFLUENCE ID="1">1</INFLUENCE>
+        </VERTEX>
+        <VERTEX ID="33" NUMINFLUENCES="1">
+            <POS>-0.18 -0.45 504.98</POS>
+            <NORM>-0.03524 -0.08976 0.99534</NORM>
+            <TEXCOORD>0.6500 0.5000</TEXCOORD>
+            <INFLUENCE ID="1">1</INFLUENCE>
+        </VERTEX>
+        <VERTEX ID="34" NUMINFLUENCES="1">
+            <POS>1.35 -0.71 504.76</POS>
+            <NORM>0.27039 -0.14106 0.95236</NORM>
+            <TEXCOORD>0.7000 0.5000</TEXCOORD>
+            <INFLUENCE ID="1">1</INFLUENCE>
+        </VERTEX>
+        <VERTEX ID="35" NUMINFLUENCES="1">
+            <POS>2.75 -0.89 504.08</POS>
+            <NORM>0.54955 -0.17855 0.81616</NORM>
+            <TEXCOORD>0.7500 0.5000</TEXCOORD>
+            <INFLUENCE ID="1">1</INFLUENCE>
+        </VERTEX>
+        <VERTEX ID="36" NUMINFLUENCES="1">
+            <POS>3.87 -0.99 503.00</POS>
+            <NORM>0.77492 -0.19856 0.60006</NORM>
+            <TEXCOORD>0.8000 0.5000</TEXCOORD>
+            <INFLUENCE ID="1">1</INFLUENCE>
+        </VERTEX>
+        <VERTEX ID="37" NUMINFLUENCES="1">
+            <POS>4.62 -1.00 501.63</POS>
+            <NORM>0.92443 -0.19914 0.32523</NORM>
+            <TEXCOORD>0.8500 0.5000</TEXCOORD>
+            <INFLUENCE ID="1">1</INFLUENCE>
+        </VERTEX>
+        <VERTEX ID="38" NUMINFLUENCES="1">
+            <POS>4.92 -0.90 500.09</POS>
+            <NORM>0.98345 -0.18022 0.01856</NORM>
+            <TEXCOORD>0.9000 0.5000</TEXCOORD>
+            <INFLUENCE ID="1">1</INFLUENCE>
+        </VERTEX>
+        <VERTEX ID="39" NUMINFLUENCES="1">
+            <POS>4.73 -0.72 498.55</POS>
+            <NORM>0.94621 -0.14366 -0.28992</NORM>
+            <TEXCOORD>0.9500 0.5000</TEXCOORD>
+            <INFLUENCE ID="1">1</INFLUENCE>
+        </VERTEX>
+        <VERTEX ID="40" NUMINFLUENCES="1">
+            <POS>4.08 -0.47 497.15</POS>
+            <NORM>0.81634 -0.09304 -0.57003</NORM>
+            <TEXCOORD>1.0000 0.5000</TEXCOORD>
+            <INFLUENCE ID="1">1</INFLUENCE>
+        </VERTEX>
+        <VERTEX ID="41" NUMINFLUENCES="1">
+            <POS>-0.89 -4.90 499.53</POS>
+            <NORM>-0.17772 -0.97952 -0.09463</NORM>
+            <TEXCOORD>0.0250 1.0000</TEXCOORD>
+            <INFLUENCE ID="1">1</INFLUENCE>
+        </VERTEX>
+        <VERTEX ID="42" NUMINFLUENCES="1">
+            <POS>-0.89 -4.90 499.53</POS>
+            <NORM>-0.17772 -0.97952 -0.09463</NORM>
+            <TEXCOORD>0.0750 1.0000</TEXCOORD>
+            <INFLUENCE ID="1">1</INFLUENCE>
+        </VERTEX>
+        <VERTEX ID="43" NUMINFLUENCES="1">
+            <POS>-0.89 -4.90 499.53</POS>
+            <NORM>-0.17772 -0.97952 -0.09463</NORM>
+            <TEXCOORD>0.1250 1.0000</TEXCOORD>
+            <INFLUENCE ID="1">1</INFLUENCE>
+        </VERTEX>
+        <VERTEX ID="44" NUMINFLUENCES="1">
+            <POS>-0.89 -4.90 499.53</POS>
+            <NORM>-0.17772 -0.97952 -0.09463</NORM>
+            <TEXCOORD>0.1750 1.0000</TEXCOORD>
+            <INFLUENCE ID="1">1</INFLUENCE>
+        </VERTEX>
+        <VERTEX ID="45" NUMINFLUENCES="1">
+            <POS>-0.89 -4.90 499.53</POS>
+            <NORM>-0.17772 -0.97952 -0.09463</NORM>
+            <TEXCOORD>0.2250 1.0000</TEXCOORD>
+            <INFLUENCE ID="1">1</INFLUENCE>
+        </VERTEX>
+        <VERTEX ID="46" NUMINFLUENCES="1">
+            <POS>-0.89 -4.90 499.53</POS>
+            <NORM>-0.17772 -0.97952 -0.09463</NORM>
+            <TEXCOORD>0.2750 1.0000</TEXCOORD>
+            <INFLUENCE ID="1">1</INFLUENCE>
+        </VERTEX>
+        <VERTEX ID="47" NUMINFLUENCES="1">
+            <POS>-0.89 -4.90 499.53</POS>
+            <NORM>-0.17772 -0.97952 -0.09463</NORM>
+            <TEXCOORD>0.3250 1.0000</TEXCOORD>
+            <INFLUENCE ID="1">1</INFLUENCE>
+        </VERTEX>
+        <VERTEX ID="48" NUMINFLUENCES="1">
+            <POS>-0.89 -4.90 499.53</POS>
+            <NORM>-0.17772 -0.97952 -0.09463</NORM>
+            <TEXCOORD>0.3750 1.0000</TEXCOORD>
+            <INFLUENCE ID="1">1</INFLUENCE>
+        </VERTEX>
+        <VERTEX ID="49" NUMINFLUENCES="1">
+            <POS>-0.89 -4.90 499.53</POS>
+            <NORM>-0.17772 -0.97952 -0.09463</NORM>
+            <TEXCOORD>0.4250 1.0000</TEXCOORD>
+            <INFLUENCE ID="1">1</INFLUENCE>
+        </VERTEX>
+        <VERTEX ID="50" NUMINFLUENCES="1">
+            <POS>-0.89 -4.90 499.53</POS>
+            <NORM>-0.17772 -0.97952 -0.09463</NORM>
+            <TEXCOORD>0.4750 1.0000</TEXCOORD>
+            <INFLUENCE ID="1">1</INFLUENCE>
+        </VERTEX>
+        <VERTEX ID="51" NUMINFLUENCES="1">
+            <POS>-0.89 -4.90 499.53</POS>
+            <NORM>-0.17772 -0.97952 -0.09463</NORM>
+            <TEXCOORD>0.5250 1.0000</TEXCOORD>
+            <INFLUENCE ID="1">1</INFLUENCE>
+        </VERTEX>
+        <VERTEX ID="52" NUMINFLUENCES="1">
+            <POS>-0.89 -4.90 499.53</POS>
+            <NORM>-0.17772 -0.97952 -0.09463</NORM>
+            <TEXCOORD>0.5750 1.0000</TEXCOORD>
+            <INFLUENCE ID="1">1</INFLUENCE>
+        </VERTEX>
+        <VERTEX ID="53" NUMINFLUENCES="1">
+            <POS>-0.89 -4.90 499.53</POS>
+            <NORM>-0.17772 -0.97952 -0.09463</NORM>
+            <TEXCOORD>0.6250 1.0000</TEXCOORD>
+            <INFLUENCE ID="1">1</INFLUENCE>
+        </VERTEX>
+        <VERTEX ID="54" NUMINFLUENCES="1">
+            <POS>-0.89 -4.90 499.53</POS>
+            <NORM>-0.17772 -0.97952 -0.09463</NORM>
+            <TEXCOORD>0.6750 1.0000</TEXCOORD>
+            <INFLUENCE ID="1">1</INFLUENCE>
+        </VERTEX>
+        <VERTEX ID="55" NUMINFLUENCES="1">
+            <POS>-0.89 -4.90 499.53</POS>
+            <NORM>-0.17772 -0.97952 -0.09463</NORM>
+            <TEXCOORD>0.7250 1.0000</TEXCOORD>
+            <INFLUENCE ID="1">1</INFLUENCE>
+        </VERTEX>
+        <VERTEX ID="56" NUMINFLUENCES="1">
+            <POS>-0.89 -4.90 499.53</POS>
+            <NORM>-0.17772 -0.97952 -0.09463</NORM>
+            <TEXCOORD>0.7750 1.0000</TEXCOORD>
+            <INFLUENCE ID="1">1</INFLUENCE>
+        </VERTEX>
+        <VERTEX ID="57" NUMINFLUENCES="1">
+            <POS>-0.89 -4.90 499.53</POS>
+            <NORM>-0.17772 -0.97952 -0.09463</NORM>
+            <TEXCOORD>0.8250 1.0000</TEXCOORD>
+            <INFLUENCE ID="1">1</INFLUENCE>
+        </VERTEX>
+        <VERTEX ID="58" NUMINFLUENCES="1">
+            <POS>-0.89 -4.90 499.53</POS>
+            <NORM>-0.17772 -0.97952 -0.09463</NORM>
+            <TEXCOORD>0.8750 1.0000</TEXCOORD>
+            <INFLUENCE ID="1">1</INFLUENCE>
+        </VERTEX>
+        <VERTEX ID="59" NUMINFLUENCES="1">
+            <POS>-0.89 -4.90 499.53</POS>
+            <NORM>-0.17772 -0.97952 -0.09463</NORM>
+            <TEXCOORD>0.9250 1.0000</TEXCOORD>
+            <INFLUENCE ID="1">1</INFLUENCE>
+        </VERTEX>
+        <VERTEX ID="60" NUMINFLUENCES="1">
+            <POS>-0.89 -4.90 499.53</POS>
+            <NORM>-0.17772 -0.97952 -0.09463</NORM>
+            <TEXCOORD>0.9750 1.0000</TEXCOORD>
+            <INFLUENCE ID="1">1</INFLUENCE>
+        </VERTEX>
+        <FACE VERTEXID="0 20 21" />
+        <FACE VERTEXID="1 21 22" />
+        <FACE VERTEXID="2 22 23" />
+        <FACE VERTEXID="3 23 24" />
+        <FACE VERTEXID="4 24 25" />
+        <FACE VERTEXID="5 25 26" />
+        <FACE VERTEXID="6 26 27" />
+        <FACE VERTEXID="7 27 28" />
+        <FACE VERTEXID="8 28 29" />
+        <FACE VERTEXID="9 29 30" />
+        <FACE VERTEXID="10 30 31" />
+        <FACE VERTEXID="11 31 32" />
+        <FACE VERTEXID="12 32 33" />
+        <FACE VERTEXID="13 33 34" />
+        <FACE VERTEXID="14 34 35" />
+        <FACE VERTEXID="15 35 36" />
+        <FACE VERTEXID="16 36 37" />
+        <FACE VERTEXID="17 37 38" />
+        <FACE VERTEXID="18 38 39" />
+        <FACE VERTEXID="19 39 40" />
+        <FACE VERTEXID="20 41 21" />
+        <FACE VERTEXID="21 42 22" />
+        <FACE VERTEXID="22 43 23" />
+        <FACE VERTEXID="23 44 24" />
+        <FACE VERTEXID="24 45 25" />
+        <FACE VERTEXID="25 46 26" />
+        <FACE VERTEXID="26 47 27" />
+        <FACE VERTEXID="27 48 28" />
+        <FACE VERTEXID="28 49 29" />
+        <FACE VERTEXID="29 50 30" />
+        <FACE VERTEXID="30 51 31" />
+        <FACE VERTEXID="31 52 32" />
+        <FACE VERTEXID="32 53 33" />
+        <FACE VERTEXID="33 54 34" />
+        <FACE VERTEXID="34 55 35" />
+        <FACE VERTEXID="35 56 36" />
+        <FACE VERTEXID="36 57 37" />
+        <FACE VERTEXID="37 58 38" />
+        <FACE VERTEXID="38 59 39" />
+        <FACE VERTEXID="39 60 40" />
+    </SUBMESH>
+</MESH>
